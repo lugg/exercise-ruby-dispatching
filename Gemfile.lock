@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    multi_json (1.12.1)
+    oj (2.18.5)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  multi_json
+  oj
+
+BUNDLED WITH
+   1.14.6
